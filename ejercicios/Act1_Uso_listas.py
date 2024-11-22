@@ -2,9 +2,9 @@
 #Fecha: 10/10/24
 #Objetivo: Escribe un programa que escriba las siguientes listas
 
-print(list(range(0, 10)))
+print(list(range(5, 10)))
 
-print(list(range(4, 11)))
+print(list(range(9, 11)))
 
 print(list(range(-6, 0)))
 
