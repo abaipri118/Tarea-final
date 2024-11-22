@@ -1,2 +1,0 @@
-aldalkfa
-abs
